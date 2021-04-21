@@ -1,0 +1,25 @@
+{
+    "straw_icecream" : {
+        "id" : 0,
+        "name" : "Straw icecream",
+        "value" : 3,
+        "fun" : 1,
+        "price" : 300
+    },
+
+    "candy" : {
+        "id" : 1,
+        "name" : "Candy",
+        "value" : 1,
+        "fun" : 1,
+        "price" : 150
+    },
+    
+    "corpse" : {
+        "id" : 3,
+        "name" : "Corpse's meat",
+        "value" : -6,
+        "fun" : -5,
+        "price" : 1500
+    }
+}

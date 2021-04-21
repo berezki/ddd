@@ -1,0 +1,17 @@
+{
+    "remember_token": true,
+    "token": "",
+    "spy_mod": true,
+    "dota_mod": true,
+    "troll_mod": true,
+    "safe_mod": true,
+    "admin_ids": [
+        
+    ],
+    "white_list": [
+        
+    ],
+    "pizda_mod": false,
+    "casino_mod": true,
+    "casino_on": true
+}

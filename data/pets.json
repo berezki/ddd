@@ -1,0 +1,19 @@
+{
+  "123456789" : {
+    "id" : 123456789,
+    "name" : "name",
+    "bellyful" : 0,
+    "mood" : 0,
+    "cleanness" : 0,
+    "last_time" : "",
+    "goods" : [
+      {
+        "id" : 0,
+        "name" : "Straw icecream",
+        "value" : 3,
+        "fun" : 1,
+        "price" : 300
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "2000000000": {
+        "peer_id": 2000000000,
+        "match_id": "",
+        "player_id": "",
+        "current_match_ids": [],
+        "current_player_ids": [],
+        "current_flags": {
+            "matches": false,
+            "players": false,
+            "invoke": false,
+            "casino_notifications_enabled": true
+        },
+        "matches_page": null
+    }
+}

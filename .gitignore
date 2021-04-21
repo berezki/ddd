@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+.idea
+ddd.iml
+ddd_modules/ddd_modules.iml
